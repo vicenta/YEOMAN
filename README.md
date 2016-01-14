@@ -1,5 +1,5 @@
 #YEOMAN
-Instalar Nodejs y Git
+Instalar [Nodejs](https://nodejs.org/en/) y [git](https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/Git-2.7.0-64-bit.exe)
 Descargar nodejs
 Descargar git e instalar versión linux
 

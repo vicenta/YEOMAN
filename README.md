@@ -17,7 +17,8 @@ $ npm install --global yo bower grunt-cli
 
 # instalar el generador de angular
 $ npm install --global generator-angular generator-karma  
-Usar yeoman para crear web
+
+#Usar yeoman para crear web
 
 $ mkdir micarpeta  
 $ cd micarpeta  

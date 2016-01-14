@@ -4,7 +4,7 @@ Descargar nodejs
 Descargar git e instalar versión linux
 
 Instalar yeoman
-Seguir los pasos de yeoman
+Seguir los pasos de [YEOMAN](http://yeoman.io/codelab/setup.html)
 
 Abrir powershell desde el botón de inicio de windows.
 Actualizar
